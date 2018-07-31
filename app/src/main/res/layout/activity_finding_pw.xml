@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimaryDark">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:src="@drawable/app_logo_t"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+        <!--a-->
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="23dp"
+            android:layout_height="16dp"
+            android:text="Find Password"
+            android:textColor="@color/littlewhite"
+            android:layout_alignBottom="@+id/imageView"
+            android:layout_alignLeft="@id/imageView"
+            android:layout_alignRight="@id/imageView"
+            android:layout_alignTop="@id/imageView"
+            android:gravity="center"
+            android:layout_marginTop="30dp"/>
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_marginTop="100dp"
+        android:layout_width="match_parent"
+        android:layout_height="66dp"
+        android:src="@drawable/findingpw_info"/>
+
+    <EditText
+        android:layout_marginTop="30dp"
+        android:id="@+id/emailTV"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|center"
+        android:hint="put your e-mail"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:theme="@style/EditTextStyle"/>
+
+    <Button
+        android:id="@+id/submitBtn"
+        android:layout_marginTop="60dp"
+        android:layout_gravity="right"
+        android:layout_marginRight="50dp"
+        android:layout_width="100dp"
+        android:layout_height="35dp"
+        android:background="@drawable/submit_event" />
+
+
+</LinearLayout>

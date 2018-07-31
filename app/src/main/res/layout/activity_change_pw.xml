@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimaryDark">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:src="@drawable/app_logo_t"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+        <!--a-->
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="23dp"
+            android:layout_height="16dp"
+            android:text="Change Password"
+            android:textColor="@color/littlewhite"
+            android:layout_alignBottom="@+id/imageView"
+            android:layout_alignLeft="@id/imageView"
+            android:layout_alignRight="@id/imageView"
+            android:layout_alignTop="@id/imageView"
+            android:gravity="center"
+            android:layout_marginTop="30dp"/>
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_marginTop="60dp"
+        android:layout_marginBottom="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="66dp"
+        android:src="@drawable/changepw_info"/>
+
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp">
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="87dp"
+            android:layout_height="30dp"
+            android:layout_marginBottom="16dp"
+            android:layout_marginEnd="12dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:src="@drawable/currentpw"
+            app:layout_constraintBottom_toTopOf="@+id/imageView6"
+            app:layout_constraintEnd_toStartOf="@+id/currentTV"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/currentTV" />
+
+        <EditText
+        android:id="@+id/currentTV"
+        android:layout_width="205dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="40dp"
+        android:ems="10"
+        android:inputType="textPassword"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/imageView5"
+        app:layout_constraintTop_toTopOf="parent"
+        android:theme="@style/EditTextStyle" />
+
+        <ImageView
+            android:id="@+id/imageView6"
+            android:layout_width="87dp"
+            android:layout_height="30dp"
+            android:layout_marginBottom="16dp"
+            android:layout_marginEnd="12dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:src="@drawable/newpw"
+            app:layout_constraintBottom_toTopOf="@+id/imageView7"
+            app:layout_constraintEnd_toStartOf="@+id/newTV"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/newTV" />
+
+        <EditText
+            android:id="@+id/newTV"
+            android:layout_width="205dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="40dp"
+            android:ems="10"
+            android:inputType="textPassword"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/imageView6"
+            app:layout_constraintTop_toBottomOf="@+id/currentTV"
+            android:theme="@style/EditTextStyle" />
+
+        <ImageView
+            android:id="@+id/imageView7"
+            android:layout_width="87dp"
+            android:layout_height="30dp"
+            android:layout_marginEnd="12dp"
+            android:layout_marginStart="16dp"
+            android:src="@drawable/confirmpw"
+            app:layout_constraintBottom_toBottomOf="@+id/confirmTV"
+            app:layout_constraintEnd_toStartOf="@+id/confirmTV"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/confirmTV"
+            app:layout_constraintVertical_bias="1.0" />
+
+        <EditText
+            android:id="@+id/confirmTV"
+            android:layout_width="205dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="40dp"
+            android:inputType="textPassword"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/imageView7"
+            app:layout_constraintTop_toBottomOf="@+id/newTV"
+            android:theme="@style/EditTextStyle" />
+
+    </android.support.constraint.ConstraintLayout>
+
+    <Button
+        android:id="@+id/submitBtn"
+        android:layout_marginTop="60dp"
+        android:layout_gravity="right"
+        android:layout_marginRight="50dp"
+        android:layout_width="100dp"
+        android:layout_height="35dp"
+        android:background="@drawable/submit_event" />
+
+
+
+</LinearLayout>
