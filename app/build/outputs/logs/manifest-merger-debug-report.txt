@@ -1,0 +1,258 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:2:1-61:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\e490f4bf9c1557720959f2cbca040381\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha3.aar\668a629b8da07bbe5af707a45a204837\AndroidManifest.xml:17:1-24:12
+MERGED from [gun0912.ted:tedpermission:2.0.0] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\tedpermission-2.0.0.aar\b9f0c9f719a2a990c9b8e1a573a5fe22\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha3.aar\2062bfd292f0de577772c46203642298\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha3.aar\2d00cf4153530971714615ccf8b3faf4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-alpha3.aar\f8a4036a602d1c79badb26f2a32371ac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha3.aar\8719488a54b0752e4acb5686088685a3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha3.aar\e8f5f0447d90f4619b7c8a7051732588\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha3.aar\c41aa60ab31099deb4a09c19009ed747\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-alpha3.aar\dd2138ba4051ee117c24fd616a54bb5a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha3.aar\7cbdeef0d02190448446af800b6f0776\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha3.aar\923f3db81bb86624d84cb7889f03c401\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha3.aar\3bde34651e76b3966d86b5485736ad5b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha3.aar\b9730110b9ba76b0fd5d171181cdd74b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha3.aar\b01938052b911fcdff1939f4268ff1cd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha3.aar\b14917f58a17f7ed7c99041bf31aade7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha3.aar\3ffb63c46b2130da8f4f61abca809709\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha3.aar\4da990e63842944d2dac51a19105703d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha3.aar\68b3740f13b2212d17d9cf12364fc8c4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\d306c767eb4b0a12f8f350eb3bf7444e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-alpha3.aar\412c4f0d1c06fec2377027df129e8124\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\863d9c6a12a558bd8bb24169a5eea8d2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\c26636e7a308de5a31c0b8b2d7e7bcba\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha3.aar\8219616d520d9e2ef81596879fd1c250\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha3.aar\d4db811703cbcb03fc580b3176d706e0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha3.aar\9e6afcbce6f8457fbc2e4ecf64816cd7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha3.aar\0922ed33bd0a2663fd6ec9eb6f051df5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha3.aar\4b0aa932f7002d08f205e5a09cd4e9b8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\f1c00a8710a5bc3a8b8c44b62ac2617f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\0d76c91aa218ca9e6f8464692aabfe9e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a3ae97a2983065e411105e0d496e9617\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:2:1-61:12
+	package
+		ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:2:1-61:12
+		INJECTED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:2:1-61:12
+		INJECTED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:8:22-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:11:22-77
+application
+ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:13:5-59:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\e490f4bf9c1557720959f2cbca040381\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\e490f4bf9c1557720959f2cbca040381\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha3.aar\668a629b8da07bbe5af707a45a204837\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha3.aar\668a629b8da07bbe5af707a45a204837\AndroidManifest.xml:22:5-20
+MERGED from [gun0912.ted:tedpermission:2.0.0] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\tedpermission-2.0.0.aar\b9f0c9f719a2a990c9b8e1a573a5fe22\AndroidManifest.xml:9:5-13:19
+MERGED from [gun0912.ted:tedpermission:2.0.0] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\tedpermission-2.0.0.aar\b9f0c9f719a2a990c9b8e1a573a5fe22\AndroidManifest.xml:9:5-13:19
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\d306c767eb4b0a12f8f350eb3bf7444e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\d306c767eb4b0a12f8f350eb3bf7444e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\c26636e7a308de5a31c0b8b2d7e7bcba\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\c26636e7a308de5a31c0b8b2d7e7bcba\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\d306c767eb4b0a12f8f350eb3bf7444e\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:16:9-40
+	android:roundIcon
+		ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:19:9-40
+activity#com.example.myungjin.withusplanet.View.IntroActivity
+ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:20:19-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.example.myungjin.withusplanet.View.Login_Activity
+ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:27:9-29:52
+	android:screenOrientation
+		ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:29:13-49
+	android:name
+		ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:28:13-48
+activity#com.example.myungjin.withusplanet.View.ViewActivity
+ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:35:9-37:52
+	android:screenOrientation
+		ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:37:13-49
+	android:name
+		ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:36:13-46
+activity#com.example.myungjin.withusplanet.View.FindingPW
+ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:38:9-40:52
+	android:screenOrientation
+		ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:40:13-49
+	android:name
+		ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:39:13-43
+activity#com.example.myungjin.withusplanet.View.UserInfo
+ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:41:9-44:50
+	android:screenOrientation
+		ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:43:13-49
+	android:theme
+		ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:44:13-47
+	android:name
+		ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:42:13-42
+activity#com.example.myungjin.withusplanet.View.ChangePW
+ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:45:9-47:52
+	android:screenOrientation
+		ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:47:13-49
+	android:name
+		ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:46:13-42
+activity#com.example.myungjin.withusplanet.View.LeaveAccount
+ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:48:9-50:52
+	android:screenOrientation
+		ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:50:13-49
+	android:name
+		ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:49:13-46
+activity#com.example.myungjin.withusplanet.View.SignupActivity
+ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:51:9-53:52
+	android:screenOrientation
+		ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:53:13-49
+	android:name
+		ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:52:13-48
+activity#com.example.myungjin.withusplanet.View.User_profile
+ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:54:9-56:52
+	android:screenOrientation
+		ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:56:13-49
+	android:name
+		ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:55:13-46
+activity#com.example.myungjin.withusplanet.View.SelectSimAP
+ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:57:9-54
+	android:name
+		ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:57:19-51
+activity#com.example.myungjin.withusplanet.View.SimViewActivity
+ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:58:9-67
+	android:name
+		ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml:58:19-55
+uses-sdk
+INJECTED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\e490f4bf9c1557720959f2cbca040381\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\e490f4bf9c1557720959f2cbca040381\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha3.aar\668a629b8da07bbe5af707a45a204837\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha3.aar\668a629b8da07bbe5af707a45a204837\AndroidManifest.xml:20:5-44
+MERGED from [gun0912.ted:tedpermission:2.0.0] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\tedpermission-2.0.0.aar\b9f0c9f719a2a990c9b8e1a573a5fe22\AndroidManifest.xml:5:5-7:41
+MERGED from [gun0912.ted:tedpermission:2.0.0] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\tedpermission-2.0.0.aar\b9f0c9f719a2a990c9b8e1a573a5fe22\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha3.aar\2062bfd292f0de577772c46203642298\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha3.aar\2062bfd292f0de577772c46203642298\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha3.aar\2d00cf4153530971714615ccf8b3faf4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha3.aar\2d00cf4153530971714615ccf8b3faf4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-alpha3.aar\f8a4036a602d1c79badb26f2a32371ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-alpha3.aar\f8a4036a602d1c79badb26f2a32371ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha3.aar\8719488a54b0752e4acb5686088685a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha3.aar\8719488a54b0752e4acb5686088685a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha3.aar\e8f5f0447d90f4619b7c8a7051732588\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha3.aar\e8f5f0447d90f4619b7c8a7051732588\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha3.aar\c41aa60ab31099deb4a09c19009ed747\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha3.aar\c41aa60ab31099deb4a09c19009ed747\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-alpha3.aar\dd2138ba4051ee117c24fd616a54bb5a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-alpha3.aar\dd2138ba4051ee117c24fd616a54bb5a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha3.aar\7cbdeef0d02190448446af800b6f0776\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha3.aar\7cbdeef0d02190448446af800b6f0776\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha3.aar\923f3db81bb86624d84cb7889f03c401\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha3.aar\923f3db81bb86624d84cb7889f03c401\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha3.aar\3bde34651e76b3966d86b5485736ad5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha3.aar\3bde34651e76b3966d86b5485736ad5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha3.aar\b9730110b9ba76b0fd5d171181cdd74b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha3.aar\b9730110b9ba76b0fd5d171181cdd74b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha3.aar\b01938052b911fcdff1939f4268ff1cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha3.aar\b01938052b911fcdff1939f4268ff1cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha3.aar\b14917f58a17f7ed7c99041bf31aade7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha3.aar\b14917f58a17f7ed7c99041bf31aade7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha3.aar\3ffb63c46b2130da8f4f61abca809709\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha3.aar\3ffb63c46b2130da8f4f61abca809709\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha3.aar\4da990e63842944d2dac51a19105703d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha3.aar\4da990e63842944d2dac51a19105703d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha3.aar\68b3740f13b2212d17d9cf12364fc8c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha3.aar\68b3740f13b2212d17d9cf12364fc8c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\d306c767eb4b0a12f8f350eb3bf7444e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\d306c767eb4b0a12f8f350eb3bf7444e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-alpha3.aar\412c4f0d1c06fec2377027df129e8124\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-alpha3.aar\412c4f0d1c06fec2377027df129e8124\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\863d9c6a12a558bd8bb24169a5eea8d2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\863d9c6a12a558bd8bb24169a5eea8d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\c26636e7a308de5a31c0b8b2d7e7bcba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\c26636e7a308de5a31c0b8b2d7e7bcba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha3.aar\8219616d520d9e2ef81596879fd1c250\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha3.aar\8219616d520d9e2ef81596879fd1c250\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha3.aar\d4db811703cbcb03fc580b3176d706e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha3.aar\d4db811703cbcb03fc580b3176d706e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha3.aar\9e6afcbce6f8457fbc2e4ecf64816cd7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha3.aar\9e6afcbce6f8457fbc2e4ecf64816cd7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha3.aar\0922ed33bd0a2663fd6ec9eb6f051df5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha3.aar\0922ed33bd0a2663fd6ec9eb6f051df5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha3.aar\4b0aa932f7002d08f205e5a09cd4e9b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha3.aar\4b0aa932f7002d08f205e5a09cd4e9b8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\f1c00a8710a5bc3a8b8c44b62ac2617f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\f1c00a8710a5bc3a8b8c44b62ac2617f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\0d76c91aa218ca9e6f8464692aabfe9e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\0d76c91aa218ca9e6f8464692aabfe9e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a3ae97a2983065e411105e0d496e9617\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a3ae97a2983065e411105e0d496e9617\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\qxisy\Downloads\spring-android-samples-master\spring-android-basic-auth\WithusPlanet\app\src\main\AndroidManifest.xml
+activity#com.gun0912.tedpermission.TedPermissionActivity
+ADDED from [gun0912.ted:tedpermission:2.0.0] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\tedpermission-2.0.0.aar\b9f0c9f719a2a990c9b8e1a573a5fe22\AndroidManifest.xml:10:9-12:67
+	android:theme
+		ADDED from [gun0912.ted:tedpermission:2.0.0] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\tedpermission-2.0.0.aar\b9f0c9f719a2a990c9b8e1a573a5fe22\AndroidManifest.xml:12:13-64
+	android:name
+		ADDED from [gun0912.ted:tedpermission:2.0.0] C:\Users\qxisy\.gradle\caches\transforms-1\files-1.1\tedpermission-2.0.0.aar\b9f0c9f719a2a990c9b8e1a573a5fe22\AndroidManifest.xml:11:13-75
