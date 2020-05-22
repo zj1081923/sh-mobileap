@@ -13,3 +13,6 @@
 
 ## 정보 출력
 ![info](https://user-images.githubusercontent.com/28529194/82646486-a272bf80-9c4f-11ea-883e-2eaa17870d34.png)
+
+## 기타
+계정생성, 계정탈퇴, 비밀번호 변경, 등록한 이메일로 
